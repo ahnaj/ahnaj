@@ -82,5 +82,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahnaj/ahnaj/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
-## Credits
-- Kangaroo sprite in profile picture sourced from the [Pixel People Wiki](https://fandom.com). Original intellectual property belongs to LambdaMu Games.
+### Credits
+- Kangaroo sprite in profile picture sourced from the [Pixel People Wiki](https://pixelpeople.fandom.com/wiki/Kangaroo). Original intellectual property belongs to LambdaMu Games.
