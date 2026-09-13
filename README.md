@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">[Link to Documentation](https://ahnaj.github.io/homelab-docs/)</p>
+<p align="left"><a href="https://ahnaj.github.io/homelab-docs/">Link to Documentation</a></p>
 
 ###
 
