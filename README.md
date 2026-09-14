@@ -76,6 +76,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/claude-code.png" height="40" alt="claude code logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/codex.png" height="40" alt="codex logo" />
