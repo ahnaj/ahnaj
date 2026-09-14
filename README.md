@@ -33,6 +33,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/proxmox.png" height="40" alt="proxmox logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
@@ -42,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
@@ -79,8 +81,6 @@
   <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/codex.png" height="40" alt="codex logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/antigravity.png" height="40" alt="antigravity logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/proxmox.png" height="40" alt="proxmox logo" />
 </div>
 
 ###
