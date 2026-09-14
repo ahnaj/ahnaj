@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><a href="https://ahnaj.github.io/homelab-docs/">Link to Documentation</a></p>
+[🦘.is-not-a.dev](https://🦘.is-not-a.dev)
 
 ###
 
