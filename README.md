@@ -63,6 +63,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/cloudflare.png" height="40" alt="cloudflare logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
@@ -77,6 +79,8 @@
   <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/codex.png" height="40" alt="codex logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/antigravity.png" height="40" alt="antigravity logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/ahnaj/ahnaj/main/assets/icons/proxmox.png" height="40" alt="proxmox logo" />
 </div>
 
 ###
